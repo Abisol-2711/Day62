@@ -1,0 +1,12 @@
+@use 'variables';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Sirve para mantener el ancho y alto de las cajas sin importar lo que tenga dentro*/
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: variables.$Font;
+}
