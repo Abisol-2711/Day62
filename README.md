@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL:](https://abisol-2711.github.io/Day62/)
-- [Live Site URL:](https://your-live-site-url.com)
+- [Solution URL](https://abisol-2711.github.io/Day62/)
+- [Live Site URL](https://abisol-2711.github.io/Day62/)
 
 ## My process
 
